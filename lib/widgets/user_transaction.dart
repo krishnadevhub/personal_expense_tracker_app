@@ -1,9 +1,9 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:personal_expense_tracker_app/models/transaction.dart';
-import 'package:personal_expense_tracker_app/widgets/new_transaction.dart';
-import 'package:personal_expense_tracker_app/widgets/transaction_list.dart';
+import 'package:personal_expense_app/models/transaction.dart';
+import 'package:personal_expense_app/widgets/new_transaction.dart';
+import 'package:personal_expense_app/widgets/transaction_list.dart';
 
 class UserTransaction extends StatefulWidget {
   const UserTransaction({Key? key}) : super(key: key);
